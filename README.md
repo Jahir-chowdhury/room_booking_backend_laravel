@@ -1,3 +1,6 @@
+## Clone the repository
+git clone https://github.com/Jahir-chowdhury/room_booking_backend_laravel.git
+
 ## Install project dependencies
 composer install
 
